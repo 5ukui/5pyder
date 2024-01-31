@@ -8,7 +8,7 @@
 </div>
 
 ## About The Project
-Spyder is a Python-based Cryptocurrency forensics tool that visualizes transactions to allow analysts to trace cryptocurrency thats been distributed accross different wallet addresses.
+Python-based Cryptocurrency forensics GUI application that visualizes transactions to allow analysts to trace cryptocurrency thats been distributed accross different wallet addresses.
 
 <div align="center">
   <a href="https://github.com/HuthaifaM/Spyder">
