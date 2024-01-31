@@ -75,7 +75,7 @@ Once these API keys are obtained, append them to the creds.py file.
 
 Install the dependencies:
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 Execute the application:
 ```
