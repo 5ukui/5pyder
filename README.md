@@ -63,7 +63,7 @@ Pyvis, PyQt5, PyQtWebEngine, requests, termcolor, slither-analyzer
 
 
 ## Instructions
-Note: Always use a virtual environment when installing dependancies. :exclamation:
+Note: Always use a virtual environment when installing dependancies. ⚠️
 
 These API keys are required for this application to function:
 
