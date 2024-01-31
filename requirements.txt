@@ -1,0 +1,12 @@
+requests
+numpy
+pandas
+PyQt5
+PyQtWebEngine
+graphviz
+beautifulsoup4
+termcolor
+matplotlib
+pyvis
+scikit-learn
+slither-analyzer
