@@ -23,7 +23,7 @@ The application utilizes Etherscan.io's and Ethplorer.io's API keys to retrieve 
     <img src="Icons/parent.png" alt="Parent" height=80 width=80>
   </a>
 </div>
-This is the wallet address that the use initially searches for. The rest of the wallet addresses branching out of the parent node are categorized as child nodes and assigned a different color icon.
+This is the wallet address that the user initially searches for. The rest of the wallet addresses branching out of the parent node are categorized as child nodes and assigned a different color icon.
 
 #### Child
 <div align="left">
