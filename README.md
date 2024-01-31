@@ -4,7 +4,7 @@
     <img src="Icons/appLogo.png" alt="Logo" width="180" height="180">
   </a>
   
-  <h3 align="center">Spyder</h3>
+  <h3 align="center">5pyder</h3>
 </div>
 
 ## About The Project
