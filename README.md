@@ -15,7 +15,7 @@ Spyder is a Python-based Cryptocurrency forensics tool that visualizes transacti
     <img src="Icons/Application Screenshot.PNG" alt="Logo">
   </a>
 </div>
-The application utilizes Etherscan.io's API to retrieve a wallet address's transaction histroy and visualizes it in the form of a network graph. The wallet addresses are assigned different icons based on their category as shown below:
+The application utilizes Etherscan.io's and Ethplorer.io's API keys to retrieve a wallet address's transaction histroy and visualizes it in the form of a network graph. The wallet addresses are assigned different icons based on their category as shown below:
 
 #### Parent
 <div align="left">
